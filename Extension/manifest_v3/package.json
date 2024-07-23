@@ -19,7 +19,7 @@
         "rollup-plugin-import-css": "^3.0.3",
         "rollup-plugin-vue": "^6.0.0",
         "vue": "^2.7.14",
-        "vue-template-compiler": "^2.7.14",
+        "vue-template-compiler": "^2.7.16",
         "webextension-polyfill": "^0.7.0",
         "webextension-polyfill-ts": "^0.22.0"
     },
